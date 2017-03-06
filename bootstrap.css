@@ -1,0 +1,17 @@
+a {
+    color: black;
+}
+
+aside {
+    background-color: #796799; //monitor's lighter purple
+    color: white;
+}
+
+img {
+    padding-bottom: 2em;
+}
+
+footer p {
+    color: #6f5a92; //monitor's darker purple
+    font-size: 1.2em;
+}
